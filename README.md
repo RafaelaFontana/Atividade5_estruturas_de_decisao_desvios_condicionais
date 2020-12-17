@@ -1,1 +1,1 @@
-# Lista-de-Exerc-cios-Estruturas-de-decis-o-desvios-condicionais-
+# Lista-de-Exercicios-Estruturas-de-decisao-desvios-condicionais-
